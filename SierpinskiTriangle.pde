@@ -5,7 +5,6 @@ public void draw(){
   sierpinski(200,200,150);
 }
 public void mouseDragged(){
-  sierpinski(200,200,150);
 }
 public void sierpinski(int x, int y, int len){
   if(len<=20){
